@@ -1,2 +1,2 @@
 # firstProject
-My first reasonably sized project
+My first small sized project
